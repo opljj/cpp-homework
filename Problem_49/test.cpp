@@ -4,3 +4,4 @@ int main(){
     scanf("%d",&a);
     printf("%d Hello world!/n",a);
 }
+//測試
